@@ -10,8 +10,10 @@ import {
   Javascript,
   CPP,
   C,
-  Vue,
-  Next
+  Next,
+  Express,
+  MongoDB,
+  Node,
 } from "../constants/Constant";
 
 import AOS from "aos";
@@ -45,6 +47,9 @@ const Skills = () => {
           <Image img={Vite}></Image>
           <Image img={Git}></Image>
           <Image img={Github}></Image>
+          <Image img={Node}></Image>
+          <Image img={Express}></Image>
+          <Image img={MongoDB}></Image>
         </div>
       </section>
     </>

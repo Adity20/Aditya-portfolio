@@ -11,6 +11,9 @@ import TailwindCSS from "../assets/TailwindCSS.png";
 import react from "../assets/react.png";
 import Vue from "../assets/vue.png";
 import Next from "../assets/nextjs.svg";
+import Node from "../assets/nodejs.png";
+import Express from "../assets/expressjs.png";
+import MongoDB from "../assets/mongodb.png";
 
 import Icosmic from "../assets/logo-1.webp";
 import Hack from "../assets/hack.svg";
@@ -48,4 +51,7 @@ export {
   Game,
   Json,
   Strat,
+  Node,
+  Express,
+  MongoDB,
 };

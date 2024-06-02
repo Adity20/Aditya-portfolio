@@ -55,7 +55,7 @@ const Contact = () => {
               </button>
               <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300 from-blue-600 to-cyan-600  font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
                 <a
-                  href="https://github.com/Adity20/Personal-Portfolio"
+                  href="https://github.com/Adity20/Aditya-Portfolio"
                   className="flex gap-2 items-center justify-center"
                 >
                   <SiGithub />
@@ -68,7 +68,7 @@ const Contact = () => {
           <div className="IMG p-0 max-sm:grid max-sm:place-content-center">
             <img
               src={Aditya}
-              alt="Dhairya Majmudar"
+              alt="Aditya Sharma"
               className="h-[200px] max-sm:h-[150px] w-[120px] border-[#00040fab] dark:border-slate-300 border-4 rounded-full mt-12"
             />
           </div>

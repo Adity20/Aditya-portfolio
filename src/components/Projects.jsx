@@ -116,10 +116,10 @@ const Projects = () => {
           />
 
           <Project_prop
-            title="Pragati"
-            para="Pragati is a one stop solution to cater the needs of daily wage labourers and contractors "
+            title="UniVerse"
+            para="UniVerse is a platform to cater the needs of university students and faculties"
             img={GPT4}
-            // github_link="https://github.com/DhairyaMajmudar/GPT-4-Website"
+            github_link="https://github.com/Adity20/UniVerse1"
             react={
               <Tooltip title="React" arrow>
                 <IconButton>
